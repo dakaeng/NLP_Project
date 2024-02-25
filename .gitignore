@@ -1,0 +1,13 @@
+# 폴더 무시
+.ipynb_checkpoints/
+1.\ Data/.ipynb_checkpoints/
+2.\ Preprocessing/ipynb_checkpoints/
+
+data/
+model/
+
+# 파일 무시
+성능 높이려면.txt
+
+# 확장자 무시
+*.ipynb

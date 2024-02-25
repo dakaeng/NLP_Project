@@ -1,0 +1,8 @@
+# 폴더 무시
+.ipynb_checkpoints/
+기존/
+data/
+model/
+
+# 확장자 무시
+*.txt
